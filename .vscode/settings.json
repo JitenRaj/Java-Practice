@@ -1,6 +1,7 @@
 {
   "java.project.sourcePaths": [
     "01 Introduction",
-    "02 Built-in Functions"
+    "02 String Functions",
+    "03 Maths Functions"
   ]
 }
