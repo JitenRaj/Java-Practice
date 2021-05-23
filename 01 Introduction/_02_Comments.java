@@ -1,4 +1,7 @@
-class comment_s {
+/**
+ * _02_Comments
+ */
+public class _02_Comments {
   public static void main(String[ ] args) {
 
     // this is single line comment
