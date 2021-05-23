@@ -4,7 +4,7 @@ String = "Hello"; (text/word)
 int = 5; (whole number)
 float = 10.5; (floating number)
 char = 'a'; (single character)
-boolean = True/False;    (boolean values)         */
+boolean = True/False;    (boolean values)       */
 
 public class _05_DataTypes {
   public static void main(String[] args) {
