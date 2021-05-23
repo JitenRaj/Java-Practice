@@ -1,3 +1,5 @@
+// User input
+
 import java.util.Scanner;
 
 public class _06_User_input {
