@@ -1,9 +1,10 @@
 /**
  * _01_while_loop
  */
-import java.util.Scanner;
+// import java.util.Scanner; 
 public class _01_while_loop {
   public static void main(String[] args) {
+    /*
     System.out.println("Enter a number: ");
     Scanner num1 = new Scanner(System.in);
     System.out.println(num1.nextInt());
@@ -11,8 +12,12 @@ public class _01_while_loop {
     System.out.println("Enter a number: ");
     Scanner num2 = new Scanner(System.in);
     System.out.println(num2.nextInt());
-    num2.close();
+    num2.close(); */
 
-    
+    int i=5,n=5;
+    while (i<n) {
+      System.out.println(i);
+      i++;
+    }
   }
 }
