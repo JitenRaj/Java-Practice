@@ -7,6 +7,7 @@ public class _03_if_else {
     Scanner agescan = new Scanner(System.in);
     age = agescan.nextInt();
 
+    agescan.close();
     if (age<16) {
       System.out.println("Too Young");
     } else {
