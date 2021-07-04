@@ -12,5 +12,7 @@ public class _03_for_loop {
         for( int i = 0 ; i < num ; i++) {
             System.out.println(i);
         }
+
+        num_scan.close();
     }
 }
