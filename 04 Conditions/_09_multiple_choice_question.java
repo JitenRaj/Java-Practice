@@ -21,7 +21,7 @@ public class _09_multiple_choice_question {
 
         String input1 = input.next();
 
-        if ( correctAnswer1.equals(input1) ) {
+        if ( correctAnswer1.equals(input1.toLowerCase()) ) {
             System.out.println("Yey Congrats! This is Correct Answer");
         } else {
             System.out.println("This is Wrong Answer");
