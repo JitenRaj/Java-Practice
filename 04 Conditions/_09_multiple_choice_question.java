@@ -6,10 +6,10 @@ import java.util.Scanner;
 public class _09_multiple_choice_question {
     public static void main(String[] args) {
         String Question1 = "which city is known as pink city?";
-        String choise1 = "Bikaner";
-        String choise2 = "Jaipur";
-        String choise3 = "Jodhpur";
-        String choise4 = "Jaisalmer";
+        String choise1 = "bikaner";
+        String choise2 = "jaipur";
+        String choise3 = "jodhpur";
+        String choise4 = "jaisalmer";
 
         String correctAnswer1 = choise2;
 
