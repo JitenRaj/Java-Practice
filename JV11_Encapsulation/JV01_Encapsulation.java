@@ -1,18 +1,4 @@
-class Person {
-    private String name; // private = restricted access
-  
-    // Getter
-    public String getName() {
-      return name;
-    }
-  
-    // Setter
-    public void setName(String newName) {
-      this.name = newName;
-    }
-  }
-
-  /*
+/*
 
   //Note: Here in this block, we cant access private string name
 
@@ -30,10 +16,10 @@ class Person {
 However, we can provide public get and set methods to access 
 and update the value of a private variable.
  */
-  public class JV01_Example {
+  public class JV01_Encapsulation {
     public static void main(String[] args) {
-      Person myObj = new Person();
-      myObj.setName("Jiten"); // Set the value of the name variable to "John"
+      JV01_Private_Encap myObj = new JV01_Private_Encap();
+      myObj.setName("Jiten"); // Set the value of the name variable to "Jiten"
       System.out.println(myObj.getName());
     }
   }
