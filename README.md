@@ -19,7 +19,7 @@ This repo contains the code snippets covering concepts of the Java Programming L
 - [Classes](./JV09_Classes/)
 - [Access Modifiers](./JV10_Modifiers/)
 - [Encapsulation](./JV11_Encapsulation/)
-- [Inheritance](./JV12_Inheritence/)
+- [Inheritance](./JV12_Inheritance/)
 - [Polymorphism](./JV13_Polymorphism/)
 - [Abstraction](./JV14_Abstraction/)
 - [Other Concepts](./JV15_Other_Concepts/)
